@@ -128,3 +128,4 @@ function collapse(grid){
         }
     }
 }
+hendrik
